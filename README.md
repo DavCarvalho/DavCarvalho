@@ -10,7 +10,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
+  <img align="right"  src="https://media.discordapp.net/attachments/990404146844827668/1029156476427698176/20220702_191020.jpg?width=120&height=200">
 </div>
   
   ##
