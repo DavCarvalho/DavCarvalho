@@ -6,7 +6,7 @@ Computer Science student with a passion for technology, specializing in **Machin
 ## 🔬 Featured Projects
 
 ### 🤖 Machine Learning & AI
-- **[PointNet++ Flange Recognition](https://github.com/DavCarvalho/pointnet-_flange_recognition)** - 3D object detection using deep learning on point cloud data
+- **[PointNet++ Flange Recognition](https://github.com/DavCarvalho/pointnet-_industrial_pointcloud_flange_segmentation)** - 3D object detection using deep learning on point cloud data
 - **[Elasticsearch Semantic Search](https://github.com/DavCarvalho/elastisearch-semantic-search-bert-knn)** - Semantic search engine using BERT embeddings and KNN
 - **[NLP with SpaCy](https://github.com/DavCarvalho/elasticsearch_spacy-modell)** - Text processing and synonym extraction
 
