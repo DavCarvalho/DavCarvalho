@@ -12,12 +12,12 @@ Computer Science student with a passion for technology, specializing in **Machin
 
 ### 🌐 Backend & APIs
 - **[Graph Algorithm API](https://github.com/DavCarvalho/api_grafos_caminho_mais_curto)** - FastAPI service for shortest path calculation using OSMnx
-- **[Portal Dashboard API](https://github.com/DavCarvalho/portal_dashboard_kemp_api)** - Backend service for dashboard management
-- **[Faculty Testing Platform](https://github.com/DavCarvalho/faculdade-testes)** - Node.js/Express API
+- **[API for a english school](https://github.com/DavCarvalho/api-English-school)** - Backend service for a english school
+- **[Supermarket API](https://github.com/DavCarvalho/api_supermarket)** - Node.js/Express API
 
 ### 🔧 Automation & Tools
-- **[Selenium Web Scraper](https://github.com/DavCarvalho/selenium_script)** - Automated document download system
-- **[OCR Legacy Archive](https://github.com/DavCarvalho/acervo_legado_teste)** - Document digitization using EasyOCR
+- **[Selenium Web Scraper] Automated document download system
+- **[OCR Legacy Archive]
 
 ## 💻 Tech Stack
 
