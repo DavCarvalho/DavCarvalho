@@ -57,3 +57,4 @@ Computer Science student with a passion for technology, specializing in **Machin
 - 📊 Data Engineering & Search Technologies
 
 ## 📫 Let's Connect!
+https://www.linkedin.com/in/davi-ribeiro-82389a253/
